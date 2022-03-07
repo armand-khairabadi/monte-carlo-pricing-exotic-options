@@ -1,4 +1,22 @@
 # monte-carlo-pricing-exotic-options
+```math
+e^i + 1 = 0
+```
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80944214/157110677-ae37cf7d-9f84-4272-b7e1-536301766327.png" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80944214/157110771-3b9129ad-90c6-4e20-8f50-17cac1c798e4.png" />
+</p>
+
+
+
+An Asian option is an option on the average price of the underlying asset. One particular application of Asian options is hedging exchange rate risk. Asian options are also popular in the energy OTC market and many commodity markets. Furthermore, because an Asian option is based on a price average, an attempt to manipulate the asset price just before expiration will normally have little effect or no effect on the option’s value. Asian options should therefore be of particular interest in markets for thinly traded assets.
+Consider the case of an Asian call option with discrete arithmetic averaging. An option with maturity of T years and strike K has the payoff
+
 ![image](https://user-images.githubusercontent.com/80944214/157110677-ae37cf7d-9f84-4272-b7e1-536301766327.png)
 
   
