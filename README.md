@@ -11,7 +11,7 @@ An Asian option is an option on the average price of the underlying asset. One p
 
 The graph demonstrates that the volatility in the average price value (red line) tends to be smoother and lower in comparison to the standard price path denoted by the blue line. The graph suggests that the average is less exposed to sudden crashes or rallies in stock price and over time is harder to manipulate than a single stock price. Therefore, the average price value captures more of the general movement (upward/downward trend) rather than the specific and sudden movements.
 
-**Do you think the price of the Asian option should be lower, equal, or higher compared with a similar standard option? Why?**
+**The price of the Asian option should be lower compared with a similar standard option**
 
 Since the payoff of an Asian option is based on an average price of the underlying asset, it is less volatile than the asset price itself, and the option on a lower volatility asset is worth less. This is because higher volatility means higher upside risk or higher downside risk.  In this case, the more the averages, the lower the price. The intuition is that the pricing fluctuations are averaged more frequently hence the volatility is reduced. The Figure above confirms this intuition. The Asian option should be less expensive in comparison to the similar standard option.
 
